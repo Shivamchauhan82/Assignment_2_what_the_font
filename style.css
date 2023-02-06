@@ -1,0 +1,42 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+    text-align: center;
+    background-color: #eaeaea;
+    /* background-image: url("https://images.pexels.com/photos/3721381/pexels-photo-3721381.jpeg?auto=compress&cs=tinysrgb&w=600");
+      Full height 
+  height: 100%;
+
+   Center and scale the image nicely 
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover; */
+  
+  
+}
+  
+  header {
+    font-style: italic;
+    padding: 20px;
+    
+  }
+  
+  h1 {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 40px;
+    color: #d41d1d;
+    text-shadow: 2px 2px 2px #cccccc;
+  }
+
+  h3{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 40px;
+    color: #333333;
+    text-shadow: 2px 2px 2px #cccccc;
+  }
+  
+  p {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 20px;
+    line-height: 1.5;
+    color: #666666;
+  }
